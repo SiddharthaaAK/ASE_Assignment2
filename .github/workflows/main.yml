@@ -1,0 +1,8 @@
+"""
+This is a sample module docstring.
+"""
+
+A = 3  # Constant variable names should be in UPPER_CASE
+B = 2  # Constant variable names should be in UPPER_CASE
+
+print(A + B)
